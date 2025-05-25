@@ -1,9 +1,10 @@
-# RPA-Uipath-EXP-1
+# RPA-EXP-1
+Hello World - Display a Message Box
 # DATE:24-04-2025
 # Register No.: 212223220028
 # Name: Hafeezul Deen S
 # AIM:
-Hello world message display.
+To Create a workflow that displays a "Hello World" message box.
 # Requirements:
 1.) Laptop
 
